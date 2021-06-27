@@ -1,0 +1,13 @@
+c:\users\nino pr\documents\visual studio 2015\Projects\Seminarska_Naloga_PRO1\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.exe.config
+c:\users\nino pr\documents\visual studio 2015\Projects\Seminarska_Naloga_PRO1\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.exe
+c:\users\nino pr\documents\visual studio 2015\Projects\Seminarska_Naloga_PRO1\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.pdb
+c:\users\nino pr\documents\visual studio 2015\Projects\Seminarska_Naloga_PRO1\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.csprojResolveAssemblyReference.cache
+c:\users\nino pr\documents\visual studio 2015\Projects\Seminarska_Naloga_PRO1\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.exe
+c:\users\nino pr\documents\visual studio 2015\Projects\Seminarska_Naloga_PRO1\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.pdb
+C:\Users\admin\Desktop\PRO1_Project\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.exe.config
+C:\Users\admin\Desktop\PRO1_Project\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.exe
+C:\Users\admin\Desktop\PRO1_Project\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.pdb
+C:\Users\admin\Desktop\PRO1_Project\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\PRO1_Project\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PRO1_Project\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.exe
+C:\Users\admin\Desktop\PRO1_Project\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.pdb
